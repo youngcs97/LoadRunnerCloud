@@ -1,0 +1,11 @@
+{
+  "name": "truapi_csv_test",
+  "version": "0.0.0",
+  "description": "truapi_csv_test",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "async": "^1.5.0",
+    "ya-csv": "^0.9.4"
+  } 
+}
+

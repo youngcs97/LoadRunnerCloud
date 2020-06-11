@@ -1,0 +1,20 @@
+{
+  "name": "load-runner-cloud",
+  "version": "0.0.0",
+  "description": "LoadRunnerCloud",
+  "main": "app.js",
+  "author": {
+    "name": "Chris Young"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "form-data": "^2.5.1",
+    "handlebars": "^4.5.3",
+    "https-proxy-agent": "^2.2.4",
+    "inquirer": "^7.0.1",
+    "jszip": "^3.2.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "swagger-parser": "^8.0.3"
+  }
+}

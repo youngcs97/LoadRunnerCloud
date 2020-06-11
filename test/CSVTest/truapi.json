@@ -1,0 +1,16 @@
+{
+  "version": "0.0.0",
+  "test": {
+    "script": "truapi_csv_test.js"
+  },
+  "local": {
+    "vuserCount": 1,
+    "policy": {
+      "start": { "type": "allTogether" },
+      "duration": { "type": "iterationBased", "param": 1 },
+      "end": { "type": "allTogether" }
+    }
+  },
+  "transactions": ["http-get","http-post","http-headers"]
+}
+

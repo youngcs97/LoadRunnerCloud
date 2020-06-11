@@ -1,0 +1,3 @@
+METHOD,URL,HEADERS,PAYLOAD,TRANSACTION,THINKTIME
+post,http://www.dataaccess.com/webservicesserver/Numberconversion.wso/NumberToWords/JSON,{},"{""ubiNum"":0}",NumberToWords,1000
+post,http://www.dataaccess.com/webservicesserver/TextCasing.wso/AllUppercaseWithToken/JSON,{},"{""sAString"":""zero"",""sToken"":""-""}",AllUppercaseWithToken,1000

@@ -1,0 +1,11 @@
+{
+    "debug": true,
+    "server": "loadrunner-cloud.saas.microfocus.com",
+    "tenant": "650582005",
+    "project": "1",
+    "user": "chris.young@microfocus.com",
+    "run": false,
+    "users": 10,
+    "duration": 30,
+    "blah": "ignore"
+}
